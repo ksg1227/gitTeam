@@ -4,6 +4,6 @@ public class Main {
 
         System.out.println("feature a change");
 
-        System.out.println("feature b change");
+        System.out.println("feature b change ");
     }
 }
