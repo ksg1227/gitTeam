@@ -3,5 +3,7 @@ public class Main {
         System.out.println("Hello world!");
 
         System.out.println("local branch change");
+
+        System.out.println("last branch change");
     }
 }
