@@ -7,5 +7,7 @@ public class Main {
         System.out.println("feature b 좀 되라");
 
         System.out.println("feature c change");
+
+        System.out.println("feature d change");
     }
 }
